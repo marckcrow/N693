@@ -4,7 +4,8 @@ Aplicação web para criação, assinatura e gestão de contratos com foco em se
 
 ## 1. Equipe
 - JOSÉ MARCONDES RODRIGUES DA SILVA JÚNIOR - 2326642 - Desenvolvedor
-- ...
+- JOÃO PAULO GOMES DOS SANTOS - 2323778 - Desenvolvedor
+- JONARTA SANTIAGO SOARES - 2327349 - Analista
 - Professor adicionado: @ronnison (ronnison.reges@gmail.com)
 
 ## 2. Público-alvo
