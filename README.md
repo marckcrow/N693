@@ -65,9 +65,5 @@ Microempreendedores que precisam emitir contratos com segurança e trilha de aud
 - `supabase start` (se aplicável)
 - Scripts de seed: `npm run seed`
 
-## 11. Deploy (opcional)
-- URL da aplicação
-- Variáveis de ambiente e chaves rotacionadas
-
-## 12. Licença
-MIT (ou conforme necessidade do curso)
+## 11. Licença
+MIT
