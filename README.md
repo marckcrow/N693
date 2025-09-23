@@ -44,9 +44,15 @@ Microempreendedores que precisam emitir contratos com segurança e trilha de aud
 | Lib vulnerável          | Dependência | Alto    | M    | SCA + atualização automatizada       |
 
 ## 7. Modelagem (3+ modelos)
-- Diagrama de Arquitetura (cliente → API/Edge → DB com RLS; Auth; Storage)
-- Diagrama de Casos de Uso (Emitir contrato, Assinar, Revisar, Exportar)
-- Diagrama de Ameaças (STRIDE) com controles (CSP, RLS, rate limit, hashing)
+
+### Diagrama de Arquitetura
+![Arquitetura](docs/arquitetura.png)
+
+### Diagrama de Casos de Uso
+![Casos de Uso](docs/casos-uso.png)
+
+### Diagrama de Ameaças (STRIDE)
+![Ameaças STRIDE](docs/ameacas.png)
 
 ## 8. Implementação Segura
 - Guidelines OWASP de codificação segura
