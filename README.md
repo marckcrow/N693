@@ -64,7 +64,17 @@ Microempreendedores que precisam emitir contratos com segurança e trilha de aud
 - **SAST**: (ex.) Semgrep/ESLint rules de segurança
 - **DAST**: (ex.) ZAP baseline contra a app local
 - **SCA**: auditoria de dependências (npm audit)
+
 - Pentest básico de IDOR e fluxo de autenticação
+
+### Evidências de Segurança
+![npm audit](docs/audit.png)
+![SAST - ESLint](docs/sast.png)
+- Testes dinâmicos (DAST – ZAP)  
+![DAST - ZAP](docs/zap.png)  
+- Testes unitários (TDD – Vitest)  
+![TDD](docs/tdd.png)  
+
 
 ## 10. Como Rodar
 - Requisitos: Node 20+, Supabase CLI
@@ -75,3 +85,9 @@ Microempreendedores que precisam emitir contratos com segurança e trilha de aud
 
 ## 11. Licença
 MIT
+
+## 12. Extensão e Feedback
+- Reuniões presenciais realizadas com microempreendedores.
+- Questionário aplicado online: [link Forms](https://forms.office.com/Pages/ResponsePage.aspx?id=B97FqfbmWk6QlFboL680PmoBJdenaaZEhrH1SCkDsbBUQTFXWkFXOTI2TkxPTFVZUzJYQUczRkxFTy4u)
+
+*Observação: os resultados do Forms foram analisados e discutidos em grupo, mas não houve registro gráfico ou fotográfico das reuniões.*
